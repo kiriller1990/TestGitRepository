@@ -1,3 +1,4 @@
 good bye
 some other string
 line from user2
+enother line from user2
